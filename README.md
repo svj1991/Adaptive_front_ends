@@ -2,9 +2,9 @@
 End-to-end Source Separation using Adaptive Front-ends code. 
 
 ### Links
-The paper is available [here|https://arxiv.org/pdf/1705.02514.pdf]
+The paper is available [here](https://arxiv.org/pdf/1705.02514.pdf)
 
-Separation examples are available [here|http://www.vshrikant.com/nn_adaptive_transforms.html]
+Separation examples are available [here](http://www.vshrikant.com/nn_adaptive_transforms.html)
 
 ### Commands
 Run the following commands in the terminal for running the code:

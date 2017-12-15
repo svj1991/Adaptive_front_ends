@@ -6,7 +6,7 @@ Code for the paper "Adaptive Front Ends for end-to-end source separation"
 University of Illinois
 Open Source License
 
-Copyright © <2017>, <University of Illinois at Urbana Champaign>. All rights reserved.
+Copyright © <2017>, <UIUC>. All rights reserved.
 
 Developed by:
 Shrikant Venkataramani, Paris Smaragdis
